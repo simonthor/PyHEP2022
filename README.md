@@ -4,6 +4,7 @@
 
 ## Authors
 Primary author: Simon Thor
+
 Co-authors: Jonas Eschle, Albert Puig and Eduardo Rodrigues
 
 ## Abstract
