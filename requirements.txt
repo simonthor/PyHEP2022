@@ -1,2 +1,0 @@
-phasespace[fromdecay]==1.7.0
-graphviz>=0.12.0
